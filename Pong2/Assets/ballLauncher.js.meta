@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 59410794d740fe241b815f8f51cda180
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {fileID: 400000, guid: ebca7d3b020b00f40968dfdbd5d5e959, type: 2}
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
